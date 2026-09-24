@@ -1,0 +1,517 @@
+# 중2 영어 2학기 중간고사 예상문제 (고난도 50문항)
+
+> 천재교과서(이상기) 중2 · Lesson 6 *Discovering Heroes* 의사소통 + 읽기 자료 *A Missing Cake* + 단어 학습지(1~25번) 기반
+> 학습지에 없는 *A Missing Cake* A·C 부분은 내용을 알 수 없어 출제하지 않았습니다.
+
+| 영역 | 문항 |
+|---|---|
+| Ⅰ. 어휘 | 1 ~ 12 |
+| Ⅱ. 의사소통 | 13 ~ 22 |
+| Ⅲ. 읽기 – *A Missing Cake* (B) | 23 ~ 34 |
+| Ⅳ. 읽기 – *A Missing Cake* (D) | 35 ~ 44 |
+| Ⅴ. 문법·서술형 종합 | 45 ~ 50 |
+
+---
+
+## Ⅰ. 어휘 (1 ~ 12)
+
+**1.** 단어와 영영풀이의 연결이 **옳지 않은** 것은?
+
+① clue – an object or piece of information that helps someone solve a problem, question, or mystery
+② hide – to take something that belongs to someone else
+③ handle – the part of something that you use to hold it or open it
+④ neighbor – someone who lives next to you or near you
+⑤ shadow – a dark area made by something that is stopping the light
+
+**2.** 다음 영영풀이에 해당하는 단어를 **철자에 유의하여** 쓰시오.
+
+(1) pain in your stomach or near your stomach → ____________
+(2) to become impossible to see → ____________
+(3) a person whose job is to investigate crimes and catch criminals → ____________
+
+**3.** 다음 빈칸에 공통으로 들어갈 말로 알맞은 것은?
+
+- I came back home ______ 11.
+- Then why do you have crumbs ______ your mouth?
+
+① about  ② around  ③ inside  ④ near  ⑤ at
+
+**4.** 밑줄 친 *about*의 쓰임이 나머지 넷과 **다른** 것은?
+
+① I went to the kitchen at <u>about</u> 11:30.
+② The movie starts at <u>about</u> seven.
+③ It takes <u>about</u> ten minutes to get there.
+④ I'm reading a book <u>about</u> Neil Armstrong.
+⑤ There were <u>about</u> twenty people in the room.
+
+**5.** 짝지어진 두 단어의 관계가 나머지 넷과 **다른** 것은?
+
+① steal – thief ② write – poet ③ investigate – detective ④ bake – baker ⑤ appear – disappear
+
+**6.** 밑줄 친 부분의 의미가 <보기>와 **같은** 것은?
+
+> <보기> Ms. Jones smiled and said, "The person who <u>lied</u> ate the cake."
+
+① My dog is <u>lying</u> on the sofa.
+② He <u>lay</u> down on the bench because he was tired.
+③ Don't <u>lie</u> to your parents.
+④ The book <u>lies</u> on the table.
+⑤ I <u>lay</u> in bed all morning with a stomachache.
+
+**7.** <보기>의 단어를 **알맞은 형태로 바꾸어** 빈칸에 쓰시오. (한 번씩만 사용)
+
+> <보기> hide  steal  shadow  disappear  earring
+
+(1) Yesterday I ____________ my treasure under the tree.
+(2) Look! A cat is ____________ the toy fish from the basket.
+(3) The sunset made long ____________.
+(4) My black coat ____________, and I couldn't find it.
+(5) She bought me new ____________. I'll wear them on both ears.
+
+**8.** 문맥상 밑줄 친 단어의 쓰임이 **어색한** 것은?
+
+① The <u>whole</u> team worked hard.
+② He found a lost <u>item</u> under the bench.
+③ The bird is eating bread <u>clues</u> on the table.
+④ Take this <u>medicine</u> three times a day.
+⑤ My dog loves to play in the <u>mud</u>.
+
+**9.** 괄호 안의 단어를 알맞은 형태로 바꾸어 쓰시오.
+
+(1) The detective solved the mystery ____________. (logic)
+(2) I need the ____________ answer to the question. (exactly)
+(3) I ate some cookies because I was ____________. (hunger)
+
+**10.** 다음 중 영영풀이가 바르게 된 것을 **모두** 고르면?
+
+ⓐ candle: a stick of wax with a string through the middle, which you burn to give light
+ⓑ pocket: a small bag in or on a piece of clothing, a bag, etc.
+ⓒ crumb: a very large piece of bread or cake
+ⓓ sofa: a long seat for only one person, especially outdoors
+ⓔ contact: to call or write to
+
+① ⓐ, ⓑ ② ⓑ, ⓒ ③ ⓐ, ⓑ, ⓔ ④ ⓒ, ⓓ, ⓔ ⑤ ⓐ, ⓓ, ⓔ
+
+**11.** 빈칸에 들어갈 말로 알맞지 **않은** 것은?
+
+> The detective found a ______ under the sofa.
+
+① clue ② pocket ③ earring ④ steal ⑤ candle
+
+**12.** 밑줄 친 단어의 품사가 나머지 넷과 **다른** 것은?
+
+① There was a cake <u>inside</u>.
+② <u>Finally</u>, Ms. Jones met Tom.
+③ I came back home <u>around</u> 11.
+④ I ate some cookies because I was <u>hungry</u>.
+⑤ Tom <u>finally</u> told the truth.
+
+---
+
+## Ⅱ. 의사소통 (13 ~ 22)
+
+**13.** 자연스러운 대화가 되도록 (A)~(E)를 바르게 배열한 것은?
+
+> G: You look busy today.
+> (A) I want to be a scientist like her.
+> (B) That sounds interesting!
+> (C) Yes, I'm working on a project about Marie Curie. I'm interested in her work in science.
+> (D) I hope you become a great scientist.
+
+① (A)-(B)-(C)-(D) ② (B)-(C)-(A)-(D) ③ (C)-(B)-(A)-(D) ④ (C)-(D)-(A)-(B) ⑤ (C)-(A)-(D)-(B)
+
+**14.** 다음 중 **관심을 표현하는 말이 아닌** 것은?
+
+① I'm interested in space travel.
+② I'm really into Beethoven's music.
+③ I have an interest in animal science.
+④ I'm tired of reading books about heroes.
+⑤ I'm curious about Jane Goodall's life.
+
+**15.** 다음 중 **상대방을 위해 기원하는 표현이 아닌** 것은?
+
+① I hope your dream comes true.
+② I hope you become a great scientist.
+③ Good luck with your dream!
+④ I hope to make music like him in the future.
+⑤ I wish you the best of luck.
+
+**16.** 대화의 흐름상 **어색한** 것은?
+
+> B: Yumi, what are you doing?
+> G: ① I'm reading a book about Neil Armstrong. ② I'm interested in his journey to the moon.
+> B: ③ That sounds amazing!
+> G: ④ My dream is to become an astronaut like him.
+> B: ⑤ I'm sorry to hear that. I hope your dream comes true.
+
+**17.** 다음 대화에서 어법상 **틀린 부분 2개**를 찾아 바르게 고치시오.
+
+> G: Mike, what are you listening to?
+> B: I'm listening to Beethoven. I'm interested in his music. I hope making music like him in the future.
+> G: That sounds awesome! I hope your dream come true.
+
+(1) ____________ → ____________
+(2) ____________ → ____________
+
+**18.** 위 17번 대화의 내용과 **일치하는** 것은?
+
+① Mike is listening to Mozart.
+② The girl doesn't like Beethoven's music.
+③ Mike wants to make music like Beethoven in the future.
+④ Mike is interested in Beethoven's life, not his music.
+⑤ The girl wants to become a musician.
+
+**19.** 우리말과 같도록 주어진 단어를 배열하시오. (**필요 없는 단어 1개 포함**)
+
+> 나는 그의 달 여행에 관심이 있어.
+> ( his / I'm / moon / in / interested / journey / the / to / interesting )
+
+→ ________________________________________________
+
+**20.** 다음 대화의 내용과 **일치하지 않는** 것은?
+
+> Junho: Minji, what are you reading?
+> Minji: I'm reading this book, *My Life with the Chimpanzees*.
+> Junho: Are you interested in chimpanzees?
+> Minji: Yes, I am. This book is about the life of Jane Goodall.
+> Alex: I read the book, too. She's a scientist who studied chimpanzees for many years.
+> Minji: You're right. She's the first person to study chimpanzees in the wild.
+> Junho: Wow, that's great!
+> Minji: Like Jane Goodall, I'm very interested in animals. And I want to study animals in the wild, too.
+> Alex: I hope your dream comes true.
+
+① Minji is reading a book about Jane Goodall.
+② Alex has already read the book.
+③ Jane Goodall studied chimpanzees only for a short time.
+④ Minji wants to study animals in the wild.
+⑤ Alex wishes Minji good luck with her dream.
+
+**21.** 20번 대화에서 Jane Goodall에 대해 알 수 **없는** 것은?
+
+① 그녀가 연구한 동물 ② 연구 기간이 길었는지 여부 ③ 야생에서 침팬지를 연구한 최초의 사람인지 여부 ④ 그녀가 태어난 나라 ⑤ 그녀의 삶을 다룬 책의 제목
+
+**22.** 다음 상황에서 B가 할 말을 <조건>에 맞게 쓰시오.
+
+> A: I want to be an astronaut like Neil Armstrong.
+> B: ____________________________________
+
+<조건> ① 상대방의 꿈이 이루어지기를 기원하는 말 ② *hope, dream, come true*를 반드시 사용 ③ 동사의 형태에 유의할 것
+
+---
+
+## Ⅲ. 읽기 – *A Missing Cake* (B) (23 ~ 34)
+
+[23 ~ 34] 다음 글을 읽고 물음에 답하시오.
+
+> First, Ms. Jones spoke with **(A)Harry, the oldest son**, "Someone ate your mom's cake. What did you do this morning?"
+> "I played soccer, and I came back home around 11. I saw the box on the table and opened **ⓐit**. There was a cake inside, but I didn't eat **ⓑit**."
+> "What did you do after **(B)that**?"
+> "I just went to my room."
+> "Hmm.... **(C)Then why do you have crumbs around your mouth?**"
+> "Oh, I ate some chocolate cookies **(D)because** I was hungry."
+
+**23.** (A)에서 쉼표(,)의 쓰임과 **같은** 것은?
+
+① I met Sujin, my best friend, at the library.
+② Sujin, come here right now.
+③ I bought apples, bananas, and grapes.
+④ Well, I don't know the answer.
+⑤ When I got home, it started to rain.
+
+**24.** 밑줄 친 ⓐ, ⓑ가 각각 가리키는 것을 본문에서 찾아 영어로 쓰시오.
+
+ⓐ ____________  ⓑ ____________
+
+**25.** (B) *that*이 가리키는 내용을 본문에서 찾아 **영어로** 쓰시오. (주어 I 포함)
+
+→ ________________________________________________
+
+**26.** 윗글의 내용과 **일치하는** 것은?
+
+① Harry is the youngest son of Ms. Jones.
+② Harry played baseball in the morning.
+③ Harry opened the box and saw a cake in it.
+④ Harry said that he ate the cake because he was hungry.
+⑤ Harry went out again after he opened the box.
+
+**27.** Ms. Jones가 (C)와 같이 말한 **의도**로 가장 알맞은 것은?
+
+① Harry에게 쿠키를 권하려고
+② Harry의 입가의 부스러기를 근거로 의심하려고
+③ Harry가 축구를 잘했다고 칭찬하려고
+④ Harry에게 방을 청소하라고 지시하려고
+⑤ 케이크를 어디서 샀는지 물어보려고
+
+**28.** (D)와 바꾸어 쓸 때, 빈칸 ⓐ, ⓑ에 알맞은 말이 바르게 짝지어진 것은?
+
+> - I ate some chocolate cookies ___ⓐ___ my hunger.
+> - I was hungry, ___ⓑ___ I ate some chocolate cookies.
+
+① because – so ② because of – so ③ because of – because ④ so – because ⑤ because – because of
+
+**29.** 다음은 윗글의 일부를 바꾼 것이다. 어법상 **틀린** 것의 **개수**는?
+
+> ⓐ Someone eat your mom's cake. ⓑ What did you did this morning? ⓒ I came back home around 11. ⓓ There were a cake inside. ⓔ Then why do you have crumbs around your mouth?
+
+① 1개 ② 2개 ③ 3개 ④ 4개 ⑤ 5개
+
+**30.** 다음 질문에 **완전한 영어 문장**으로 답하시오.
+
+(1) When did Harry come back home?
+→ ________________________________________________
+(2) What did Harry do before he came back home?
+→ ________________________________________________
+
+**31.** 윗글의 우리말 해석으로 **옳지 않은** 것은?
+
+① Someone ate your mom's cake. → 누군가 너희 엄마의 케이크를 먹었단다.
+② I saw the box on the table and opened it. → 나는 탁자 위에 열려 있는 상자를 보았어.
+③ There was a cake inside, but I didn't eat it. → 안에 케이크가 있었지만 나는 그것을 먹지 않았어.
+④ I just went to my room. → 나는 그냥 내 방으로 갔어.
+⑤ Oh, I ate some chocolate cookies because I was hungry. → 아, 배가 고파서 초콜릿 쿠키를 좀 먹었어.
+
+**32.** 윗글을 읽고 답할 수 **없는** 질문은?
+
+① What did Harry do this morning?
+② What was inside the box?
+③ Where did Harry go after he opened the box?
+④ Why did Harry eat chocolate cookies?
+⑤ Who baked the chocolate cookies?
+
+**33.** Harry의 행동을 **일어난 순서대로** 배열하시오.
+
+> ⓐ went to his room ⓑ played soccer ⓒ opened the box ⓓ came back home
+
+→ ______ → ______ → ______ → ______
+
+**34.** (D)를 **so**를 사용하여 같은 의미의 문장으로 바꿔 쓰시오.
+
+> I ate some chocolate cookies because I was hungry.
+
+→ ________________________________________________
+
+---
+
+## Ⅳ. 읽기 – *A Missing Cake* (D) (35 ~ 44)
+
+[35 ~ 44] 다음 글을 읽고 물음에 답하시오.
+
+> Finally, Ms. Jones met **(A)Tom, the youngest son**.
+> "Tom, you like your mom's cake, right?"
+> "Yeah, I like it. Actually, **(B)I smelled Mom baking a cake in the morning.** But I had a stomachache, so I stayed in bed."
+> "Did you go to the kitchen?"
+> "Yes, I went to the kitchen **(C)to take** some medicine at about 11:30. The box was open, so I could see the cake in it. Then I closed the box."
+> Ms. Jones smiled and said, **(D)"The person who lied ate the cake."**
+
+**35.** B와 D의 내용을 종합할 때 알 수 있는 것은?
+
+① Harry는 막내아들이다.
+② Tom은 Harry보다 나이가 많다.
+③ Harry는 가장 나이가 많고, Tom은 가장 어리다.
+④ Ms. Jones에게는 아들이 두 명뿐이다.
+⑤ Tom은 아침에 축구를 했다.
+
+**36.** (B)의 문장 구조를 참고할 때, 어법상 **틀린** 것은?
+
+① I saw him cross the road.
+② I heard her singing in her room.
+③ I smelled something burning in the kitchen.
+④ I felt someone touch my shoulder.
+⑤ I watched them to play soccer.
+
+**37.** 밑줄 친 (C) *to take*와 **쓰임이 같은** 것은?
+
+① I want to be a scientist like her.
+② She went out to buy candles for the cake.
+③ I have something to eat.
+④ My dream is to become an astronaut.
+⑤ It is hard to solve this mystery.
+
+**38.** (D)를 두 문장으로 나눌 때 빈칸에 알맞은 말을 쓰시오.
+
+> The person ate the cake. + ______ ______.
+
+**39.** 다음 문장을 **because**를 사용하여 같은 뜻이 되도록 바꿔 쓰시오.
+
+> I had a stomachache, so I stayed in bed.
+
+→ ________________________________________________
+
+**40.** 윗글의 내용과 **일치하지 않는** 것은?
+
+① Tom likes his mom's cake.
+② Tom smelled his mom baking a cake in the morning.
+③ Tom stayed in bed because he had a stomachache.
+④ Tom went to the kitchen to eat the cake at about 11:30.
+⑤ Tom closed the box after he saw the cake.
+
+**41.** 밑줄 친 (D)의 의미로 가장 알맞은 것은?
+
+① 누워 있던 사람이 케이크를 먹었다.
+② 거짓말을 한 사람이 케이크를 먹었다.
+③ 케이크를 먹은 사람은 거짓말을 하지 않았다.
+④ 침대에 있던 사람은 케이크를 먹지 않았다.
+⑤ 케이크를 먹은 사람은 부엌에 가지 않았다.
+
+**42.** B(Harry)와 D(Tom)의 진술을 **종합할 때** 알 수 있는 것으로 가장 알맞은 것은?
+
+① Harry와 Tom 모두 상자를 열지 않았다.
+② 11시 30분쯤 상자는 닫혀 있었다.
+③ 상자를 연 사람은 Harry이고, 상자를 닫은 사람은 Tom이다.
+④ Tom은 11시 이전에 부엌에 갔다.
+⑤ Harry는 케이크를 먹었다고 인정했다.
+
+**43.** 다음 질문에 **완전한 영어 문장**으로 답하시오.
+
+> Q: What did Tom do after he saw the cake in the box?
+
+→ ________________________________________________
+
+**44.** 다음 질문에 **to부정사를 사용하여** 완전한 영어 문장으로 답하시오.
+
+> Q: Why did Tom go to the kitchen?
+
+→ ________________________________________________
+
+---
+
+## Ⅴ. 문법·서술형 종합 (45 ~ 50)
+
+**45.** 다음 중 어법상 **옳은** 문장의 **개수**는?
+
+> ⓐ I'm interested in make music.
+> ⓑ I hope your dream comes true.
+> ⓒ I stayed home because of a stomachache.
+> ⓓ The person who lied ate the cake.
+> ⓔ I smelled Mom to bake a cake.
+> ⓕ He went to the kitchen to take some medicine.
+
+① 2개 ② 3개 ③ 4개 ④ 5개 ⑤ 6개
+
+**46.** 두 문장을 **to부정사**를 사용하여 한 문장으로 쓰시오.
+
+> Tom went to the kitchen. He wanted to take some medicine.
+
+→ ________________________________________________
+
+**47.** 빈칸에 들어갈 관계대명사가 **나머지와 다른** 하나는?
+
+① Jane Goodall is a scientist ______ studied chimpanzees.
+② I know a boy ______ likes Beethoven's music.
+③ This is the box ______ was on the table.
+④ The person ______ lied ate the cake.
+⑤ Harry is the son ______ played soccer this morning.
+
+**48.** 다음 글에서 어법상 **틀린 부분 3개**를 찾아 바르게 고치시오.
+
+> Harry played soccer and camed back home around 11. He saw the box on the table and open it. He ate some chocolate cookies because of he was hungry.
+
+(1) ____________ → ____________
+(2) ____________ → ____________
+(3) ____________ → ____________
+
+**49.** 윗글 B와 D를 요약한 글이다. 빈칸에 알맞은 말을 쓰시오. (**주어진 첫 글자로 시작**)
+
+> Harry, the (1) o________ son, came back home around 11 and opened the box. He had (2) c________ around his mouth because he ate some chocolate cookies. Tom, the (3) y________ son, had a (4) s________, so he went to the kitchen to take some (5) m________. Ms. Jones said that the person who (6) l________ ate the cake.
+
+**50.** 우리말과 같도록 <조건>에 맞게 영작하시오.
+
+> 나는 배가 아팠기 때문에 약을 먹으러 부엌에 갔다.
+
+<조건>
+① *because*와 *to부정사*를 반드시 사용할 것
+② *because*로 문장을 시작할 것
+③ 총 14단어로 쓸 것 (*some* 포함)
+④ 시제에 유의할 것
+
+→ ________________________________________________
+
+---
+---
+
+## 정답 및 해설
+
+### Ⅰ. 어휘
+
+| 번호 | 정답 | 해설 |
+|---|---|---|
+| 1 | ② | 제시된 풀이는 **steal(훔치다)**. hide는 *to put something in a place where it cannot be seen or found* |
+| 2 | (1) stomachache (2) disappear (3) detective | ⚠️ 학습지에서 철자 실수가 있었던 단어들. stomach + ache, dis + appear(p 두 개) |
+| 3 | ② | 둘 다 around: "~쯤(약)", "~ 주위에" (다의어) |
+| 4 | ④ | ④는 "~에 관한"(전치사), 나머지는 "약, 대략" |
+| 5 | ⑤ | 나머지는 "행동 – 그 행동을 하는 사람", ⑤는 반의어 |
+| 6 | ③ | 보기의 lie는 "거짓말하다"(lie–lied–lied). ①②④⑤는 "눕다/놓여 있다"(lie–lay–lain) |
+| 7 | (1) hid (2) stealing (3) shadows (4) disappeared (5) earrings | 시제·진행형·복수형까지 확인. hide–hid–hidden |
+| 8 | ③ | 빵 **부스러기**는 crumbs |
+| 9 | (1) logically (2) exact (3) hungry | 동사 수식 → 부사 / 명사 수식 → 형용사 / be동사 보어 → 형용사 |
+| 10 | ③ | ⓒ very small이 맞음, ⓓ sofa가 아니라 bench에 가까운 풀이이며 소파는 two or three people |
+| 11 | ④ | a 뒤에는 명사, steal은 동사 |
+| 12 | ④ | hungry는 형용사, 나머지는 모두 부사 |
+
+### Ⅱ. 의사소통
+
+| 번호 | 정답 | 해설 |
+|---|---|---|
+| 13 | ③ | 관심 표현(C) → 반응(B) → 꿈(A) → 기원(D) |
+| 14 | ④ | be tired of: ~에 싫증 나다 |
+| 15 | ④ | 자신의 바람을 말한 것이지, 상대방을 위한 기원이 아님 |
+| 16 | ⑤ | 꿈을 말했는데 "안됐다(I'm sorry to hear that)"는 흐름상 어색 |
+| 17 | (1) making → to make (2) come → comes | hope는 to부정사를 목적어로, your dream은 3인칭 단수 |
+| 18 | ③ | |
+| 19 | I'm interested in his journey to the moon. | 필요 없는 단어: interesting (사람의 감정 → interested) |
+| 20 | ③ | for many years (여러 해 동안) |
+| 21 | ④ | 출신 국가는 대화에 나오지 않음 |
+| 22 | I hope your dream comes true. | your dream은 3인칭 단수 → comes |
+
+### Ⅲ. 읽기 (B)
+
+| 번호 | 정답 | 해설 |
+|---|---|---|
+| 23 | ① | (A)는 동격의 쉼표: Harry = the oldest son / Sujin = my best friend. ② 호격 ③ 나열 ④ 감탄사 뒤 ⑤ 부사절 뒤 |
+| 24 | ⓐ the box ⓑ a cake (the cake) | 같은 it이라도 가리키는 대상이 다름 |
+| 25 | I saw the box on the table and opened it. | "그 후에 뭐 했니?" → 앞에서 말한 행동 전체 |
+| 26 | ③ | ① oldest ② soccer ④ 케이크가 아니라 쿠키 ⑤ 방으로 감 |
+| 27 | ② | "그럼 왜 입 주위에 부스러기가 있니?" → 증거를 들어 의심 |
+| 28 | ② | because of + 명사(구) / 원인, so + 결과 |
+| 29 | ③ | ⓐ eat → ate ⓑ did → do ⓓ were → was (a cake 단수) |
+| 30 | (1) He came back home around 11. (2) He played soccer. | ⚠️ came은 불규칙 과거형 (camed ×) |
+| 31 | ② | 올바른 해석: 나는 탁자 위의 상자를 보고 그것을 열었어. (학습지에서 틀린 부분) |
+| 32 | ⑤ | 쿠키를 누가 구웠는지는 언급 없음 |
+| 33 | ⓑ → ⓓ → ⓒ → ⓐ | |
+| 34 | I was hungry, so I ate some chocolate cookies. | because 뒤 = 원인, so 뒤 = 결과 → 절의 위치가 바뀜 |
+
+### Ⅳ. 읽기 (D)
+
+| 번호 | 정답 | 해설 |
+|---|---|---|
+| 35 | ③ | the oldest son / the youngest son (최상급 + 동격). 최상급을 썼으므로 아들이 셋 이상이라 "두 명뿐"은 틀림 |
+| 36 | ⑤ | 지각동사(see, hear, smell, feel, watch) + 목적어 + 동사원형/현재분사. to부정사 ✕ → play(ing) |
+| 37 | ② | 부사적 용법(목적, ~하기 위해). ①④⑤ 명사적, ③ 형용사적 |
+| 38 | The person lied. | 주격 관계대명사 who = 선행사 The person이 관계절의 주어 |
+| 39 | I stayed in bed because I had a stomachache. (= Because I had a stomachache, I stayed in bed.) | |
+| 40 | ④ | 케이크가 아니라 **약을 먹으러** 감 |
+| 41 | ② | lied = lie(거짓말하다)의 과거. 눕다의 과거는 lay (함정) |
+| 42 | ③ | Harry: 11시쯤 상자를 열었다 / Tom: 11시 30분쯤 상자가 열려 있었고 닫았다 |
+| 43 | He closed the box. | |
+| 44 | He went to the kitchen to take some medicine. | |
+
+### Ⅴ. 문법·서술형
+
+| 번호 | 정답 | 해설 |
+|---|---|---|
+| 45 | ③ | 옳은 것: ⓑⓒⓓⓕ (4개). ⓐ make → making(전치사 뒤 동명사) ⓔ to bake → baking/bake |
+| 46 | Tom went to the kitchen to take some medicine. | 목적의 to부정사 |
+| 47 | ③ | ③ 선행사가 사물 → which(that), 나머지는 사람 → who(that) |
+| 48 | (1) camed → came (2) open → opened (3) because of → because | 과거시제 일치, because + 주어 + 동사 |
+| 49 | (1) oldest (2) crumbs (3) youngest (4) stomachache (5) medicine (6) lied | |
+| 50 | Because I had a stomachache, I went to the kitchen to take some medicine. | Because(1) I(2) had(3) a(4) stomachache(5) I(6) went(7) to(8) the(9) kitchen(10) to(11) take(12) some(13) medicine(14) |
+
+---
+
+## 학습지에서 보인 약점 (시험 전에 다시 볼 것)
+
+1. **철자**: disappear(p 두 개), stomachache, detective, neighbor, candle
+2. **불규칙 과거형**: come → **came** (camed ✕), eat → ate, hide → hid
+3. **해석**: *I saw the box on the table and opened it.* → "탁자 위의 상자를 보고 **그것을 열었다**" (열린 상자를 본 것이 아님)
+4. **문법 빈칸 (B ⑤)**: *that*이 가리키는 것 = **I saw the box on the table and opened it** (앞 문장 전체)
+5. **D 문법 빈칸 정답**: ④ smell = "냄새 맡다", *baking* = 목적격 보어 / ⑦ to take = "~하기 위해"(목적), **부사적** 용법 / ⑩ who = **주격** 관계대명사, 선행사 **The person**
