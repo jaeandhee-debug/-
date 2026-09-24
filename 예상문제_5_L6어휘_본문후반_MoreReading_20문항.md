@@ -232,4 +232,4 @@
 2. **More Reading 1번 정답**: ④ ⓓ *showed* → *were shown* (비디오는 보여지는 것 → 수동태)
 3. **More Reading 2번 정답**: ⑤ (달까지 걸린 시간은 나오지 않음)
 4. **More Reading 3번 정답**: The museum was **so big that he looked around** it all day.
-5. **to부정사 형용사적 용법**: *the first ~ to + 동사원형* (첫 번째로 ~한 사람) — Neil Armstrong, Jane Goodall, Kwon Ki-ok 문장에 공통으로 나옴
+5. **to부정사 형용사적 용법**: *the first ~ to + 동사원형* (첫 번째로 ~한 사람) — *the first astronaut to land*(Neil Armstrong), *the first person to study*(Jane Goodall) 문장에 나옴

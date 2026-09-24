@@ -150,7 +150,7 @@
 (2) ____________ → ____________
 (3) ____________ → ____________
 
-**16.** 본문 전체 내용과 일치하도록 빈칸에 알맞은 말을 <보기>에서 골라 쓰시오. (**필요 없는 단어 3개 포함, 필요하면 형태를 바꿀 것**)
+**16.** 본문 전체 내용과 일치하도록 빈칸에 알맞은 말을 <보기>에서 골라 쓰시오. (**필요 없는 단어 4개 포함, 필요하면 형태를 바꿀 것**)
 
 > <보기> husband  kitchen  candle  empty  trouble  daughter  flower  room  lie
 
@@ -225,7 +225,7 @@ Q: Why is Ms. Jones popular in the town?
 | 13 | ④ | 엄마도 Ms. Jones도 케이크가 **초콜릿 케이크**라고 말한 적 없음. 게다가 Carol은 상자 안의 케이크를 **볼 수 없었다**고 했음 → Carol이 거짓말을 함 |
 | 14 | Most of all, I don't like chocolate cake. | |
 | 15 | (1) juice → water (2) could see → couldn't see (3) Harry → Tom | |
-| 16 | (1) husband (2) kitchen (3) candles (4) empty (5) lied | 필요 없는 단어: daughter, flower, room. (5) lie → **lied** (거짓말하다의 과거형) |
+| 16 | (1) husband (2) kitchen (3) candles (4) empty (5) lied | 필요 없는 단어: trouble, daughter, flower, room. (5) lie → **lied** (거짓말하다의 과거형) |
 | 17 | ⑤ | 노트북을 찾은 결과(Nancy가 방에서 게임) 바로 뒤, 마을 사람들의 평가 앞 |
 | 18 | ③, ④ | ③ Ms. Jones가 찾아줌 ④ 영화가 아니라 **게임** |
 | 19 | ④ | 지각동사의 목적격 보어로 to부정사는 쓸 수 없음 (cross는 가능) |
